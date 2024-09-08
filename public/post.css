@@ -42,7 +42,7 @@ body {
 
 h1 {
     color: var(--highlight-color);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 28px;
     color: var(--highlight-color);
     margin-bottom: 20px;
@@ -70,18 +70,19 @@ h4 {
     margin-top: 30px;
     margin-bottom: 15px;
     text-align: justify;
+    font-weight: 500;
 }
 
 /* ##### Heading 5 */
 h5 {
-    font-size: 1.25em;
-    color: #bdc3c7;
+    font-size: 16px;
+    color: #7e8c95;
 }
 
 /* ###### Heading 6 */
 h6 {
-    font-size: 1em;
-    color: #ecf0f1;
+    font-size: 11px;
+    color: #585a5b;
 }
 
 /* Paragraphs - Any plain text in Markdown */

@@ -39,9 +39,14 @@ Now it's getting a bit easier to see where these connotations may have arisen fr
 
 I also find it interesting to note that the origins of dayā and please root from the same language family, but these words are part of two separate language families (Germanic & Dravidian). So my regards to the Indo-Aryans and William the Conquerer?
 
-#### Machines in the picture
+#### machines in the picture
 
 Imagine a t-SNE or UMAP representation of a smallish multilingual language model. You would expect to find most translations of words in a similar area. When they're not aligned on any dimension, I would assume my model just sucks. I know data miners would try to find other examples and try to ascribe meaning to them, and one of the dimensions surely would be attributed to etymology (or is it? do we know? I'm not looking up any research tonight). But it would make a bit more sense why
 
 1. the words are far apart in the embedding tensor: they are used differently in local texts
 2. the model isn't using the word appropriately.
+
+###### edit: references ------ My formal training in linguistics is limited to a few classes, but most of what I cite here was taught by my very enthusiastic professor Pranesh Bhargava, and the rest are personal experience and exploration.
+
+
+
