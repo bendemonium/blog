@@ -1,0 +1,257 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@300;400;700&display=swap");
+
+:root {
+    --highlight-color: #a85751; /* Dull warm red */
+    --nav-color: #8a8585; /* More grey than red */
+    --hover-bg-color: #f5f5dc; /* Beige color for hover highlight */
+}
+
+.header-line {
+    border-top: 1px solid #e0e0e0;
+    margin: 8px 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 12px; 
+    color: #999;
+}   
+
+
+/* General body styles */
+body {
+    font-family: 'Lora', serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fcfcfc;
+    text-align: left;
+    font-size: 15px;
+}
+
+h1 {
+    color: var(--highlight-color);
+    font-weight: 700;
+    font-size: 28px;
+    color: var(--highlight-color);
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* ## Heading 2 */
+h2 {
+    font-size: 16px; 
+    color: #2c3e50;
+    font-weight: 700;
+    margin-bottom: 8px; 
+}
+
+/* ### Heading 3 */
+h3 {
+    font-size: 1.75em;
+    color: #7f8c8d;
+}
+
+/* #### Heading 4 */
+h4 {
+    font-size: 18px;
+    color: #2c3e50;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* ##### Heading 5 */
+h5 {
+    font-size: 1.25em;
+    color: #bdc3c7;
+}
+
+/* ###### Heading 6 */
+h6 {
+    font-size: 1em;
+    color: #ecf0f1;
+}
+
+/* Paragraphs - Any plain text in Markdown */
+p {
+    margin-bottom: 18px;
+    text-align: justify;
+}
+
+/* **Bold Text** or __Bold Text__ */
+strong {
+    font-weight: bold;
+}
+
+/* *Italic Text* or _Italic Text_ */
+em {
+    font-style: italic;
+}
+
+/* ~~Strikethrough~~ */
+del {
+    text-decoration: line-through;
+}
+
+/* [Link](http://example.com) */
+a {
+    color: #85851f;
+    text-decoration: none;
+}
+
+/* ![Alt Text](image.jpg) */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* `Inline Code` */
+code {
+    background-color: #f9f9f9;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+/* ```
+   Code Block
+   ``` */
+pre {
+    background-color: #f9f9f9;
+    padding: 1em;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+pre code {
+    background-color: transparent;
+    padding: 0;
+}
+
+/* > Blockquote */
+blockquote {
+    border-left: 4px solid #d17d10;
+    background-color: #d1c48541;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+    overflow-x: auto;
+    font-family: sans-serif;
+    font-size: 14.5px;
+    line-height: 1.4;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+}
+
+/* - Unordered List Item
+   * Unordered List Item */
+ul {
+    list-style-type: '>';
+    margin-left: 1.5em;
+}
+
+/* 1. Ordered List Item */
+ol {
+    list-style-type: decimal;
+    margin-left: 1.5em;
+}
+
+/* --- Horizontal Rule */
+hr {
+    border: none;
+    border-top: 2px solid #ecf0f1;
+    margin: 2em 0;
+}
+
+/* | Table | Header |
+   |-------|--------|
+   | Cell  | Cell   | */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+/* Term
+   : Definition */
+dl {
+    margin-bottom: 1em;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+}
+
+/* Footnote[^1]
+   [^1]: Footnote content. */
+.footnote-ref {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+.footnotes {
+    border-top: 1px solid #ddd;
+    padding-top: 1em;
+    font-size: 0.9em;
+}
+
+/* ==Highlighted Text== (if supported by your Markdown processor) */
+mark {
+    background-color: #bc9a7d88;
+    padding: 2px 4px;
+}
+
+/* Dark mode styles */
+[data-theme="dark"] {
+    --highlight-color: #da7871;
+}
+[data-theme="dark"] {
+    filter: invert(1) hue-rotate(180deg);
+}
+[data-theme="dark"] img,
+[data-theme="dark"] iframe {
+    filter: invert(1) hue-rotate(225deg);
+}
+[data-theme="dark"] h2 {
+    color: #4b7488;
+}
+
+
+/* Dark mode toggle button style */
+#darkModeToggle {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0 10px;
+}

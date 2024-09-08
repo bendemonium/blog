@@ -1,0 +1,6 @@
+baseURL = 'bendemonium.github.io/writing'
+languageCode = 'en-us'
+
+
+[params]
+    favicon = "favicon.ico"

@@ -1,0 +1,7 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="{{ .Site.Params.favicon | absURL }}" type="image/x-icon">
+{{- if hugo.IsProduction }}{{ $js = $js | minify | fingerprint }}{{ end -}}
+<title>docs</title>
+<script src="{{ "main.js" | relURL }}"></script>
+<link rel="stylesheet" href="{{ "main.css" | relURL }}">
