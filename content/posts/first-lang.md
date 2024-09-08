@@ -15,7 +15,7 @@ Obviously it's established science that the language you think in/ grow up with 
 I'm really old now and I don't think of it as something as trivial as I deemed it in fourth grade. When you're not as well-read in this other language, or as exposed to it, when you hear or read something in a second language, and translate it back to one of the default languages you think in, you are attaching the connotations of the words and sentence structure from this language instead of the source language. That way, intentions can be misplaced. One can seem evil, clownish, or angry even if they didn't mean to. This goes both ways. If the source's speech is in a language they don't think in, they're likely to get misinterpreted even if they meant no harm.
 
 This stuff has the power to really stir things up a lot in a troubled household. 
-##### an example:
+#### an example:
 
 (this will get rather specific because specifics are quite important to gauge the connotations attached)
 
