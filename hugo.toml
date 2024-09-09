@@ -1,6 +1,2 @@
 baseURL = 'bendemonium.github.io/blog'
 languageCode = 'en-us'
-
-
-[params]
-    favicon = "favicon.ico"
