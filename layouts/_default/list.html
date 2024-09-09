@@ -22,7 +22,7 @@
                             <a href="{{ .RelPermalink }}" class="writing-link">
                                 <div class="writing-title">{{ .Title }}</div>
                             </a>
-                            <div class="writing-meta">{{ .Date.Format "January 2, 2006" }}</div>
+                            <div class="writing-meta">{{ .Date.Format "January 2, 2006" }} | {{.ReadingTime}} min</div>
                         </li>
                         {{ end }}
                         <!-- {{ end }} -->
