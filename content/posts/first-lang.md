@@ -1,10 +1,9 @@
 ---
-title: 'How much does first langauge matter when it comes to perceiving (and reacting to) other languages?'
+title: How much does first langauge matter when it comes to perceiving (and reacting to) other languages?
 author: Ridhi Bandaru
 date: 2024-09-08T15:16:54-05:00
 draft: false
 ---
-
 If you asked me that in fourth grade, I would've said yes. My reasoning would have been simple: you often translate your thoughts into a certain language, after thinking your thoughts in your first language (first language here is whatever language your mind performs cognitive tasks in, apart from visuals - but usually those abstract visuals are also a product of your environment and the language you think in so it gets circular). This happens without your knowledge if you're relatively used to speaking that language (usually in multilingual communities). If you're new to this, you might want to think of how you would approach writing something in a language you're just learning. You explicitly say something in the language you're accustomed to thinking in, in your head, as you write down or say whatever you have to in this other, new language. 
 
 This would lead to inconsequential translational errors, including but not limited to the omission of articles, SOV misplacement, gender misappropriation (basic syntactic errors), and metaphorical transliteration. But does it affect pragmatic perception in any way?
