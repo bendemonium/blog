@@ -1,5 +1,5 @@
 ---
-title: How much does first langauge matter when it comes to perceiving (and reacting to) other languages?
+title: how much does first langauge matter when perceiving (and reacting to) other languages?
 author: Ridhi Bandaru
 date: 2024-08-26T15:16:54-05:00
 draft: false
