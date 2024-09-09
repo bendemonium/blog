@@ -150,10 +150,10 @@ pre code {
 /* > Blockquote */
 blockquote {
     border-left: 4px solid #d17d10;
-    background-color: #d1c48541;
+    background-color: #d2b62d14;
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 20px;
+    padding: 40px;
     margin: 20px 0;
     overflow-x: auto;
     font-family: 'Verdana' sans-serif;
@@ -161,7 +161,6 @@ blockquote {
     line-height: 1.4;
     white-space: pre-wrap;
     word-wrap: break-word;
-    text-align: justify;
 }
 
 /* - Unordered List Item
