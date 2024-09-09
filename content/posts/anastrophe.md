@@ -1,8 +1,8 @@
 ---
-title: How much does first langauge matter when it comes to perceiving (and reacting to) other languages?
-author: 
-date: 
-draft: 
-tags: 
-cssclasses:
+title: anastrophe
+author: Ridhi Bandaru
+date: 2024-09-10T15:16:54-05:00
+draft: true
+tags:
+  - experiment
 ---
