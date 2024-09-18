@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anastrophe.md",
+                "file": "first-lang.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anastrophe.md",
+                "file": "first-lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anastrophe.md",
+                "file": "first-lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anastrophe.md"
+                "file": "first-lang.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   "active": "29cdbe213b11a263",
   "lastOpenFiles": [
     "saikil-unkul.md",
-    "first-lang.md",
     "anastrophe.md",
+    "first-lang.md",
     "Untitled.canvas"
   ]
 }

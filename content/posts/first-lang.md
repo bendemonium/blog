@@ -45,6 +45,8 @@ Imagine a t-SNE or UMAP representation of a smallish multilingual language model
 1. the words are far apart in the embedding tensor: they are used differently in local texts
 2. the model isn't using the word appropriately.
 
+---
+
 ###### edit: references ------ My formal training in linguistics is limited to a few classes, but most of what I cite here was taught by my very enthusiastic professor Pranesh Bhargava, and the rest are personal experience and exploration.
 
 
