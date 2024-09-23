@@ -16,7 +16,6 @@
                     <h2>blog posts</h2>
                     
                     <ul class="writing-list">
-                        <!-- {{ range (where .Site.RegularPages "Section" "posts") }} -->
                         {{ range .Site.RegularPages.ByDate.Reverse }}
                         <li class="writing-item">
                             <a href="{{ .RelPermalink }}" class="writing-link">
@@ -25,7 +24,6 @@
                             <div class="writing-meta">{{ .Date.Format "January 2, 2006" }} / {{.ReadingTime}} min</div>
                         </li>
                         {{ end }}
-                        <!-- {{ end }} -->
                     </ul>
                     
                     

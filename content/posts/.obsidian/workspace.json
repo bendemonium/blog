@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first-lang.md",
+                "file": "ri experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first-lang.md",
+                "file": "ri experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "first-lang.md",
+                "file": "ri experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "first-lang.md"
+                "file": "ri experiment.md"
               }
             }
           }
@@ -183,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d02f468017ba681",
+  "active": "bf47ce7093d1e2e6",
   "lastOpenFiles": [
-    "anastrophe.md",
-    "latin.md",
+    "ri exp",
     "saikil-unkul.md",
+    "ri experiment.md",
+    "face.jpg",
+    "anastrophe.md",
     "first-lang.md",
+    "latin.md",
     "Untitled.md",
-    "Untitled",
     "Untitled.canvas"
   ]
 }
