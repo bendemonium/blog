@@ -152,7 +152,6 @@ pre code {
 /* > Blockquote */
 blockquote {
     background-color: #d2b62d14;
-    border: 1px solid #b162342e;
     border-radius: 2px;
     margin: 20px ;
     overflow-x: auto;
@@ -160,13 +159,13 @@ blockquote {
     line-height: 1.6;
     word-wrap: break-word;
     font-size: 12.6px;
-    padding: 30px 30px 9.84px 30px;
+    padding: 10px 10px 0px 10px;
 }
 
 /* - Unordered List Item
    * Unordered List Item */
 ul {
-    list-style-type: '>';
+    list-style-type: '> ';
     margin-left: 1.5em;
 }
 
@@ -239,17 +238,22 @@ mark {
 
 /* Dark mode styles */
 [data-theme="dark"] {
-    --highlight-color: #da7871;
+    --highlight-color: #a85751;
+}
+[data-theme="dark"] img{
+    filter: invert(1) hue-rotate(180deg);  
 }
 [data-theme="dark"] {
     filter: invert(1) hue-rotate(180deg);
 }
-[data-theme="dark"] img,
 [data-theme="dark"] iframe {
     filter: invert(1) hue-rotate(225deg);
 }
-[data-theme="dark"] h2 {
-    color: #4b7488;
+[data-theme="dark"] h4 {
+    color: #5d707a;
+}
+[data-theme="dark"] h1 {
+    color: #e0756e;
 }
 
 
