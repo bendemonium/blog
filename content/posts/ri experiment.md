@@ -1,10 +1,10 @@
 ---
 title: a ऋ experiment
 author: Ridhi Bandaru
-date: 2024-09-22T15:16:54-05:00
+date: 2024-09-22
 draft: false
 ---
-ऋ is a semivowel in Sanskrit that has taken various forms as it evolved to modern Indic languages, but since spelling is stubborn, we still use its equivalent in text. It's read, however, like /ɾi/ in *Hindi-Urdu* and /ɾu/ in *Marathi*. In this experiment I try to gauge first language influence on the production and perception of /r/ as a(n) nucleus/onset-nucleus. /i/ and /u/ as vowels differ in their roundedness, and whether or not one says /r/ with their lips rounded influences what the Indic ṛ has evolved into in speech. 
+ऋ is a semivowel in Sanskrit that has taken various forms as it evolved to modern Indic languages, but since spelling is stubborn, we still use its equivalent in text. It's read, however, like /ɾi/ in *Hindi-Urdu* and /ɾu/ in *Marathi*. In this experiment I try to gauge first language influence on the production and perception of /r/ as a(n) nucleus/onset-nucleus. /i/ and /u/ as vowels differ in their roundedness, and whether or not one says /r/ with their lips rounded influences what the Indic ṛ has evolved into in speech. In essence, the degree to which speakers of a tongue labialize their /r/ in various contexts dictates this.
 
 In this two-part activity, 
 #### part 1: production
@@ -31,3 +31,6 @@ In this two-part activity,
 It's becoming easier to tell how both production and perception played a part in these evolutionary differences. But what really is causing differences in the production and perception themselves? Syllabic structure in their tongue? Could it be the distribution of vowels in their tongue?  Is it all random? Is it genetic (likely not)? To find the answers to these, we can keep refining these experiments to include more words from other languages, involve more people of diverse tongues, and so forth. 
 
 > Question/Remark: I almost guarantee that *e* never showed up after the *r* in any of the subjects' transcriptions. Why do you think this is? 
+
+
+
