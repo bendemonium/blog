@@ -4,7 +4,7 @@ author: Ridhi Bandaru
 date: 2024-09-22
 draft: false
 ---
-ऋ is a semivowel in Sanskrit that has taken various forms as it evolved to modern Indic languages, but since spelling is stubborn, we still use its equivalent in text. It's read, however, like /ɾi/ in *Hindi-Urdu* and /ɾu/ in *Marathi*. In this experiment I try to gauge first language influence on the production and perception of /r/ as a(n) nucleus/onset-nucleus. /i/ and /u/ as vowels differ in their roundedness, and whether or not one says /r/ with their lips rounded influences what the Indic ṛ has evolved into in speech. In essence, the degree to which speakers of a tongue labialize their /r/ in various contexts dictates this.
+ऋ is a vowel/vocalic *r* in Sanskrit that has taken various forms as it evolved to modern Indic languages, but since spelling is stubborn, we still use its equivalent in text. It's read, however, like /ɾi/ in *Hindi-Urdu* and /ɾu/ in *Marathi*. In this experiment I try to gauge first language influence on the production and perception of /r/ as a(n) nucleus/onset-nucleus. /i/ and /u/ as vowels differ in their roundedness, and whether or not one says /r/ with their lips rounded influences what the Indic ṛ has evolved into in speech. In essence, the degree to which speakers of a tongue labialize their /r/ in various contexts dictates this.
 
 In this two-part activity, 
 #### part 1: production
