@@ -14,4 +14,5 @@ This is how I order my Subway sandwich when I'm craving a chicken salad sandwich
 | dressing (regular amount) | regular mayonnaise, yellow mustard          |
 | dressing (less)           | oil, peppercorn ranch, roasted garlic aioli |
 | seasoning                 | black pepper                                |
+
 There's no salad-y texture per se but it approximates well. I would eat at said deli if I could but sometimes Subway is just more accessible.
