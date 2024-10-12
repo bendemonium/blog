@@ -189,17 +189,17 @@ table {
     border-collapse: collapse;
     width: 80;
     margin-bottom: 1em;
-    font-size: small;
 }
 
 th, td {
-    border: 1px solid #dddddde2;
+    border: 1px solid #dddddd95;
     padding: 8px;
     text-align: left;
+    font-size: small;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #f2f2f292;
     font-weight: bold;
 }
 
