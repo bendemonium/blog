@@ -9,7 +9,7 @@ This is how I order my Subway sandwich when I'm craving a chicken salad sandwich
 |                           | 6" Grilled Chicken                          |
 | ------------------------- | ------------------------------------------- |
 | bread                     | toasted artisan Italian                     |
-| cheese                    | Provolone                                   |
+| cheese                    | provolone                                   |
 | veggies                   | lettuce, red onion, tomato                  |
 | dressing (regular amount) | regular mayonnaise, yellow mustard          |
 | dressing (less)           | oil, peppercorn ranch, roasted garlic aioli |
