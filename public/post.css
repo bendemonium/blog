@@ -189,6 +189,7 @@ table {
     border-collapse: collapse;
     width: 80%;
     margin-bottom: 1em;
+    align-self: center;
 }
 
 th, td {
