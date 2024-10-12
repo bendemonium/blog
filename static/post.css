@@ -187,7 +187,7 @@ hr {
    | Cell  | Cell   | */
 table {
     border-collapse: collapse;
-    width: 80;
+    width: 80%;
     margin-bottom: 1em;
 }
 
