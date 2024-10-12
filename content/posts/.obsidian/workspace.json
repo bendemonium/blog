@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "saikil-unkul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d02f468017ba681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ri experiment.md",
+                "file": "deliwich.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ri experiment.md",
+                "file": "deliwich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ri experiment.md",
+                "file": "deliwich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ri experiment.md"
+                "file": "deliwich.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,12 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d02f468017ba681",
+  "active": "29cdbe213b11a263",
   "lastOpenFiles": [
-    "plo-problemsetting.md",
     "ri experiment.md",
-    "anastrophe.md",
     "saikil-unkul.md",
+    "template.md",
+    "www.wikipedia.com.md",
+    "deliwich.md",
+    "anastrophe.md",
+    "a local deli in Arlington, VA.md",
+    "Untitled.md",
+    "plo-problemsetting.md",
     "latin.md",
     "first-lang.md",
     "ri experiment/ri experiment.md",
@@ -200,7 +194,6 @@
     "darkmode.png",
     "face.jpg",
     "templates/post.md",
-    "Untitled.md",
     "templates",
     "templates",
     "ri exp",
