@@ -187,12 +187,13 @@ hr {
    | Cell  | Cell   | */
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 80;
     margin-bottom: 1em;
+    font-size: small;
 }
 
 th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #dddddde2;
     padding: 8px;
     text-align: left;
 }
