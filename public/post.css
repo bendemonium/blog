@@ -165,7 +165,7 @@ blockquote {
 /* - Unordered List Item
    * Unordered List Item */
 ul {
-    list-style-type: '>';
+    list-style-type: '> ';
     margin-left: 1.5em;
 }
 
@@ -189,19 +189,17 @@ table {
     border-collapse: collapse;
     width: 80%;
     margin-bottom: 1em;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: small;
 }
 
 th, td {
-    border: 1px solid #dddddd18;
+    border: 1px solid #dddddd95;
     padding: 8px;
     text-align: left;
-    font-size: smaller;
 }
 
 th {
-    background-color: #f2f2f2a7;
+    background-color: #f2f2f292;
     font-weight: bold;
 }
 
@@ -241,17 +239,22 @@ mark {
 
 /* Dark mode styles */
 [data-theme="dark"] {
-    --highlight-color: #da7871;
+    --highlight-color: #a85751;
+}
+[data-theme="dark"] img{
+    filter: invert(1) hue-rotate(180deg);  
 }
 [data-theme="dark"] {
     filter: invert(1) hue-rotate(180deg);
 }
-[data-theme="dark"] img,
 [data-theme="dark"] iframe {
     filter: invert(1) hue-rotate(225deg);
 }
-[data-theme="dark"] h2 {
-    color: #4b7488;
+[data-theme="dark"] h4 {
+    color: #5d707a;
+}
+[data-theme="dark"] h1 {
+    color: #e0756e;
 }
 
 
